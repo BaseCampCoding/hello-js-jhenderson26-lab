@@ -1,4 +1,4 @@
-# Freelancer Pricing Utility — Variable Practice (No Functions)
+ # Freelancer Pricing Utility — Variable Practice (No Functions)
 
 In this exercise, you will help a freelancer quickly answer client questions about project pricing. You will practice using variables and arithmetic expressions in JavaScript.
 ## Task 1: Calculate the Day Rate
