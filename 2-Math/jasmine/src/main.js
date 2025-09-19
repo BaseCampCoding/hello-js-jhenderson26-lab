@@ -28,4 +28,8 @@ let totalProjectCost = Math.ceil((fullMonths * discountedMonthlyRate) + (remaini
 
 
 
+
+
+
+
   
